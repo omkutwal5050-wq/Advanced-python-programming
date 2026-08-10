@@ -68,7 +68,7 @@ def simple_template(title, content):
 def fancy_template(title, content):
     return f"{title}: {content}"
 
-
+# om kutwal sy-12 roll no. 70
 @boxed_text
 def alert_template(title, content):
     return f"{title}: {content}"
